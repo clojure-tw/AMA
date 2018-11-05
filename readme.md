@@ -5,7 +5,7 @@ Helping clojurians with any questions or you can share any tools which helpful f
 ### Links
 - [AMA](https://github.com/clojure-tw/AMA)
 - [Telegram](https://t.me/clojuretw)
-- [Facebook](https://www.facebook.com/groups/DevOpsTaiwan)
+- [Facebook](https://www.facebook.com/groups/Clojure.Taiwan)
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
