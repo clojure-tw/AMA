@@ -1,10 +1,10 @@
-# Ask me anything! (DevOps Taiwan)
+# Ask me anything! (Clojure Taiwan)
 
-Helping DevOps engineer with any questions or you can share any tools which helpful for DevOps.
+Helping clojurians with any questions or you can share any tools which helpful for Clojure.
  
-### DevOps Links
-- [AMA](https://github.com/DevOpsTW/AMA)
-- [Gitter Chat](https://gitter.im/DevOpsTW/chat)
+### Links
+- [AMA](https://github.com/clojure-tw/AMA)
+- [Telegram](https://t.me/clojuretw)
 - [Facebook](https://www.facebook.com/groups/DevOpsTaiwan)
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
